@@ -8,17 +8,31 @@ const Education = () => {
       institution: 'D N R College',
       location: 'Bhimavaram, Andhra Pradesh',
       period: 'April 2025',
-      status: 'Current',
+      status: 'Completed',
       description: 'Advanced studies in computer applications with focus on modern software development practices.'
     },
     {
       degree: 'Bachelor of Computer Science',
       institution: 'B V Raju College',
       location: 'Bhimavaram, Andhra Pradesh',
-      period: 'September 2022',
+      period: 'April 2022',
       status: 'Completed',
       description: 'Comprehensive foundation in computer science principles and programming fundamentals.'
-    }
+    },
+      {
+      degree: 'Intermediate (MPC)',
+      institution: 'Sri Chaitanya Junior College',
+      location: 'Bhimavaram, Andhra Pradesh',
+      period: 'May 2019',
+      status: 'Completed',
+    },
+      {
+      degree: 'SSC',
+      institution: 'Z P P H School',
+      location: 'Vissakoderu, Andhra Pradesh',
+      period: 'April 2017',
+      status: 'Completed',
+     }
   ];
 
   const certifications = [
